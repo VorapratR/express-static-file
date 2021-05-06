@@ -1,0 +1,1 @@
+ window.YETT_BLACKLIST = [/www\.google-analytics\.com/,/www\.googletagmanager\.com/]
